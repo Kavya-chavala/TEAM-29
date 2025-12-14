@@ -181,6 +181,14 @@ medical-assistant/
 ├── requirements.txt
 
 └── README.md
+**fetch_label.py**:
+
+Fetches official FDA drug label information from the openFDA API.
+
+Extracts verified sections like dosage, warnings, and side effects.
+
+Acts as the trusted medical data source for the entire project.
+
 
 
 
