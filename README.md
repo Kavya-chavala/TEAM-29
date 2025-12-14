@@ -160,5 +160,20 @@ Delivered as:
 
 -Optional citations
 
+**Project Structure**:
+medical-assistant/
+│
+├── api/
+│   ├── __init__.py
+│   ├── fetch_label.py
+│   ├── rag.py
+│   ├── reminder.py
+│   ├── main.py
+│
+├── .env
+├── requirements.txt
+└── README.md
+
+
 
 
