@@ -206,6 +206,14 @@ Collects user input and coordinates FDA retrieval, RAG, and AI responses.
 
 Displays human-readable answers and reminder confirmations to the user.
 
+**reminder.py**
+
+Creates a structured medication reminder plan from user inputs.
+
+Handles dose, frequency, and reminder timing logic.
+
+Separates reminder functionality from AI and data-retrieval logic.
+
 
 
 
